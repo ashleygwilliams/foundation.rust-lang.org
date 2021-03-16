@@ -132,6 +132,21 @@
   </url>
   
   <url>
+    <loc>https://foundation.rust-lang.org/policies/anti-trust-policy/</loc>
+    <lastmod>2021-03-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/policies/bylaws/</loc>
+    <lastmod>2021-03-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/policies/code-of-conduct/</loc>
+    <lastmod>2021-03-16</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foundation.rust-lang.org/posts/</loc>
     <lastmod>2021-03-16</lastmod>
   </url>
@@ -178,6 +193,11 @@
   
   <url>
     <loc>https://foundation.rust-lang.org/tags/philosophy/</loc>
+    <lastmod>2021-03-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foundation.rust-lang.org/tags/policies/</loc>
     <lastmod>2021-03-16</lastmod>
   </url>
 </urlset>
